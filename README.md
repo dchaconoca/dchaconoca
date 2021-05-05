@@ -16,6 +16,4 @@ En los últimos meses he ido retomando este proyecto pero para practicar Python,
 
 Aún falta mucho, pero poco a poco iré integrando funcionalidades.
 
-El próximo paso es utilizar el web scraping con Python para resolver uno de los principales problemas de la aplicación: Alimentar y mantener actualizada la base de datos de ingredientes y precios.
-
 Aquí podrán encontrar el proyecto en Flask -> [Recetario en Flask](https://github.com/dchaconoca/Recetario-en-Flask)
