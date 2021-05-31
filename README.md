@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, JavaScript, SQL, HTML, CSS, Bootstrap...
 - 🌱 I’m currently learning Python, JavaScrript and back-end stuff
 - 💞️ I’m looking for a job in IT, as developer and/or analyst
-- 📫 You can follow me at LinkedIn https://www.linkedin.com/in/dianaemprende/
+- 📫 You can follow me at LinkedIn https://www.linkedin.com/in/dchaconoca/
 - 🗣 I speak spanish, french and technical english
 
 
