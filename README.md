@@ -4,4 +4,5 @@
 - 💞️ I’m looking for a job in IT, as developer and/or analyst
 - 📫 You can follow me at LinkedIn https://www.linkedin.com/in/dchaconoca/
 - 🗣 I speak spanish, french and technical english
+- :globe_with_meridians: This is my web site https://www.dchaconoca.com/
 
