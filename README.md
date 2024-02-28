@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dchaconoca Diana Chacón Ocariz. I'm from Venezuela.
-- 👀 I’m interested in Data Science, Python, SQL, HTML, CSS, JavaScript
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking for a job in IT, as Data Science Trainee or as Project Manager 
+- 👀 I’m interested in Data: Python, SQL, Power BI
+- 💞️ I’m looking for a job as Data Analyst or Data Scientist
 - 📫 You can follow me at Twitter https://twitter.com/dchaconoca
 - 🗣 I speak spanish, french and technical english
-- :globe_with_meridians: This is my web site https://www.dchaconoca.com/
+- :globe_with_meridians: This is my Data Portfolio at DataCamp: [ https://www.dchaconoca.com/](https://www.datacamp.com/portfolio/dchaconoca)https://www.datacamp.com/portfolio/dchaconoca
 
